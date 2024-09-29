@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Gotti27
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Gotti27/line-laser-inr
+  - Gotti27/3d-scanner
+  - Gotti27/2columnS
+  - Gotti27/Image-Processing-Library
+  - Gotti27/Template-Tesi-LaTeX-Ca-Foscari
+  - Gotti27/rustnsomware
+  - Gotti27/tracker-eraser-bot
