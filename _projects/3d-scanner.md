@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-Article todo, [github repo](https://github.com/Gotti27/3d-scanner)
+Article todo, [github repo](https://github.com/Gotti27/3d-scanner) [project statement](https://github.com/Gotti27/3d-scanner/blob/master/2023_Geometric_and_3D_Computer_Vision_Final_Project.pdf)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
