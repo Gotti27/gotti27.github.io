@@ -76,32 +76,45 @@
     {
       "name": "Computer Vision",
       "keywords": [
-        "OpenCV", "PyTorch", "Open3D", "PyVista", "Pose estimation", "3D Reconstruction", "Image processing - feature extraction", "Optical flow estimation", "2D-3D projective geometry", "Convolutional networks", "TensorFlow"
+        "OpenCV",
+        "PyTorch",
+        "Open3D",
+        "PyVista",
+        "Pose estimation",
+        "3D Reconstruction",
+        "Image processing - feature extraction",
+        "Optical flow estimation",
+        "2D-3D projective geometry",
+        "Convolutional networks",
+        "TensorFlow"
       ]
     },
     {
       "name": "Programming languages",
-      "keywords": [
-        "Java", "C", "C++", "Scala", "Bash", "Python", "TypeScript", "JavaScript", "SQL", "LaTeX", "Rust (still learning)"
-      ]
+      "keywords": ["Java", "C", "C++", "Scala", "Bash", "Python", "TypeScript", "JavaScript", "SQL", "LaTeX", "Rust (still learning)"]
     },
     {
       "name": "Software development technlogies",
       "keywords": [
-        "Git versioning", "Linux", "Docker Containers", "Gradle", "RabbitMQ", "Jenkins", "GitHub Actions", "CICD DevOps-pipelines", "Nginx", "ESP Boards"
+        "Git versioning",
+        "Linux",
+        "Docker Containers",
+        "Gradle",
+        "RabbitMQ",
+        "Jenkins",
+        "GitHub Actions",
+        "CICD DevOps-pipelines",
+        "Nginx",
+        "ESP Boards"
       ]
     },
     {
       "name": "Frameworks",
-      "keywords": [
-        "Spring Boot", "React.js", "Angular", "NodeJS-Express", "Flask"
-      ]
+      "keywords": ["Spring Boot", "React.js", "Angular", "NodeJS-Express", "Flask"]
     },
     {
       "name": "Databases",
-      "keywords": [
-        "SQL (PostgreSQL, MySQL)", "NoSQL (MongoDB)"
-      ]
+      "keywords": ["SQL (PostgreSQL, MySQL)", "NoSQL (MongoDB)"]
     }
   ],
   "languages": [
@@ -116,28 +129,19 @@
   ],
   "interests": [
     {
-      "name": "Chess" 
+      "name": "Chess"
     },
     {
       "name": "Self-Hosting",
-      "keywords": [
-        "hosting multiple services in homelab architecture"
-      ]
+      "keywords": ["hosting multiple services in homelab architecture"]
     },
     {
       "name": "System-Network administration",
-      "keywords": [
-        "VLAN with Wireguard VPN",
-        "Running own Root CA for homelab users"
-      ]
+      "keywords": ["VLAN with Wireguard VPN", "Running own Root CA for homelab users"]
     },
     {
       "name": "Embedded devices",
-      "keywords": [
-        "ESP boards",
-        "Raspberry Pi",
-        "Arduino boards"
-      ]
+      "keywords": ["ESP boards", "Raspberry Pi", "Arduino boards"]
     }
   ],
   "references": [
