@@ -4,7 +4,7 @@ title: about
 permalink: /
 toc:
 subtitle: >
-  <p>Software developer & M.Sc. student in Computer Science @ Ca' Foscari University of Venice </p>
+  <p>Software developer & M.Sc. in Computer Science @ Ca' Foscari University of Venice </p>
   <p> <a href="/assets/certs/gottardo-pub.asc" > PGP Key </a> fingerprint: 71B9EC0B7E183D50B9985CA5DE55F626FCF4E95E</p>
 
 profile:
@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 ### TL;DR
 
-I'm finishing a M.Sc. degree in Computer Science at Ca' Foscari University of Venice, focusing on Computer Vision, 3D Reconstruction, Machine Learning and Software Architectures.
+I've graduated with M.Sc. degree in Computer Science at Ca' Foscari University of Venice, focusing on Computer Vision, 3D Reconstruction, Machine Learning and Software Architectures.
 Self-hosting and GNU/Linux enthusiast.
 
 Links:
@@ -34,27 +34,22 @@ Links:
 
 ##### Current status:
 
-Master's degree defense in October, studying VSLAM, stereo vision and LiDAR sensors on my own.
-Looking for PhD and job opportunities in the field of 3D Computer Vision and Machine Learning.
+Currently looking for jobs and PhDs opportunities in the fields of 3D Computer Vision and Machine Learning, in the meanwhile I collaborate with my University and work on side projects on Visual SLAM, stereo vision, AR and LiDAR sensors.
 
 **--- website still incomplete ---**
 
 ### Full story
 
-I hold a Bachelor's degree in Computer Science from Ca’ Foscari University of Venice, graduating with a final mark of 109/110.
+I hold a Master's degree in Computer Science from Ca’ Foscari University of Venice, graduating with a final mark of 110/110 with honors.
 
-During the summer between my Bachelor's and Master's degrees, I worked as Java developer at Zucchetti Software Giuridico in Pordenone, Italy.
-Currently, I am working on my Master's thesis in Computer Vision and 3D Reconstruction, to achieve a Master's degree in Computer Science (Software Development and Engineering) at Ca' Foscari University of Venice.
-Additionally, I collaborate with the University on various cloud architectures, including a web platform for programming examinations, addressing the "untrusted code execution" issue.
-
+During the summer between my Bachelor's and Master's degrees, I worked as a Java Developer at Zucchetti Software Giuridico in Pordenone, Italy. Then, I collaborated with Ca' Foscari University on various cloud architectures, including a web platform for programming examinations, addressing the untrusted code execution issue.
 Between the first and second years of my Master's program, I completed a summer internship at Univrses, a computer vision company in Stockholm as full stack developer.
 
-As a software developer, I have focused on Single Page Web Applications with complex, containerized, and scalable microservices architectures. Currently, I am transitioning towards Computer Vision and Machine Learning engineering, exploring their applications in embedded systems. In particular, I have been studying and working on image processing, feature extraction, optical flow estimation, curves fitting, 2D-3D projective geometry for object reconstruction, pinhole camera model and convolutional neural networks.
-
+As a software developer, I have focused on Single Page Web Applications with complex, containerized, and scalable microservices architectures. Currently, I am working on Computer Vision and Machine Learning engineering. In particular, I have been studying and working on image processing, feature extraction, optical flow estimation, curves fitting, 2D-3D projective geometry for object reconstruction, pinhole camera model, convolutional neural networks and graph-based methods.
 I am proficient in procedural, object-oriented, and functional programming paradigms.
-To broaden my technical skills, in my free time I manage my self-hosted network infrastructure and home lab, self-hosting various services.
+To broaden my technical skills, in my free time I manage my self-hosted network infrastructure and home lab, self-hosting various services, and I experiment with low level stuff and embedded programming.
 
-I’m also involved in competitive programming and have participated in the following competition:
+I’ve also been involved in competitive programming and have participated in the following competition:
 
 - SWERC 2020-2021/2022-2023
 - Google HashCode 2020/2021/2022
