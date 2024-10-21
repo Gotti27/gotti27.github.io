@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 ### TL;DR
 
-I've graduated with M.Sc. degree in Computer Science at Ca' Foscari University of Venice, focusing on Computer Vision, 3D Reconstruction, Machine Learning and Software Architectures.
+I've graduated with a Master's Degree in Computer Science at Ca' Foscari University of Venice, focusing on Computer Vision, 3D Reconstruction, Machine Learning and Software Architectures.
 Self-hosting and GNU/Linux enthusiast.
 
 Links:
