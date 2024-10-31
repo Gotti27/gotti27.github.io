@@ -30,7 +30,8 @@ Links:
 [HackerRank](https://www.hackerrank.com/h879088) |
 [Kattis](https://open.kattis.com/users/mario-gottardo) |
 [Kaggle](https://www.kaggle.com/gotti27) |
-[LeetCode](https://leetcode.com/u/gotti27)
+[LeetCode](https://leetcode.com/u/gotti27) |
+[ORCID](https://orcid.org/0009-0009-1826-4059)
 
 ##### Current status:
 

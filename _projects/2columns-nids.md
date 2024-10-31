@@ -8,4 +8,6 @@ category: work
 related_publications: false
 ---
 
-Article todo, [PDF report](/assets/pdf/NetSec-report.pdf) [GitHub repo](https://github.com/Gotti27/2columnS)
+[GitHub repo](https://github.com/Gotti27/2columnS)
+Report:
+<object data="/assets/pdf/NetSec-report.pdf" width="100%" height="800" type="application/pdf" />

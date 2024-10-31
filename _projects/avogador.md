@@ -2,8 +2,8 @@
 layout: page
 title: Avogador
 description: an academic driven code evaluation platform
-# img: assets/img/avogador-logo.png
-importance: 1
+img: assets/img/textLogo.svg
+importance: 4
 category: work
 related_publications: false
 ---
