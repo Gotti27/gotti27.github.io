@@ -4,7 +4,7 @@ title: 2columnS
 description: a network intrusion detection system
 # img: assets/img/avogador-logo.png
 importance: 4
-category: work
+category: Networking
 related_publications: false
 ---
 

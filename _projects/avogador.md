@@ -4,7 +4,7 @@ title: Avogador
 description: an academic driven code evaluation platform
 img: assets/img/textLogo.svg
 importance: 4
-category: work
+category: Software Architectures
 related_publications: false
 ---
 

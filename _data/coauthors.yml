@@ -1,3 +1,7 @@
-#"adams":
-#  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-#    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"pistellato":
+  - firstname: ["Mara", "M.", "M. P.", "Mara Pistellato"]
+    url: https://unive.it/persone/mara.pistellato
+
+"bergamasco":
+  - firstname: ["Filippo", "F.", "F. B.", "Filippo Bergamasco"]
+    url: https://scholar.google.com/citations?user=t11Y9cUAAAAJ&hl=en
