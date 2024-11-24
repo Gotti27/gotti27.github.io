@@ -4,7 +4,7 @@ title: about
 permalink: /
 toc:
 subtitle: >
-  <p>Software developer & M.Sc. in Computer Science @ Ca' Foscari University of Venice </p>
+  <p>Software developer & M.Sc. in Computer Science @ Ca' Foscari University of Venice & LinkedIn Avoider </p>
   <p> <a href="/assets/certs/gottardo-pub.asc" > PGP Key </a> fingerprint: 71B9EC0B7E183D50B9985CA5DE55F626FCF4E95E</p>
 
 profile:
