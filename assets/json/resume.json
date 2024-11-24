@@ -191,5 +191,13 @@
       "startDate": "2024-02",
       "endDate": "2024-10"
     }
+  ],
+  "publications": [
+    {
+      "name": "Surface Reconstruction from Silhouette and Laser Scanners as a Positive-Unlabeled Learning Problem",
+      "publisher": "STAG24",
+      "releaseDate": "2024-10",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=LD_H5vgAAAAJ&citation_for_view=LD_H5vgAAAAJ:u5HHmVD_uO8C"
+    }
   ]
 }

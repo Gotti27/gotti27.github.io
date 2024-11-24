@@ -6,5 +6,5 @@ inline: false
 related_posts: false
 ---
 
-Our introductory paper _"Surface Reconstruction from Silhouette and Laser Scanners as a Positive-Unlabeled Learning Problem"_ has been accepted at [STAG24](https://www.stag-conference.org/2024/) conference.
-This poster is an introduction to what explored in my [Master's Thesis]({{ site.baseurl }}/projects/masters-thesis), we are currently working on a more broader full paper and fixing the limitations of the approach.
+Our introductory paper _"Surface Reconstruction from Silhouette and Laser Scanners as a Positive-Unlabeled Learning Problem"_{% cite 10.2312:stag.20241348 %} has been accepted at [STAG24](https://www.stag-conference.org/2024/) conference.
+This paper is an introduction to what explored in my [Master's Thesis]({{ site.baseurl }}/projects/masters-thesis), we are currently working on a more broader full paper and fixing the limitations of the approach.
