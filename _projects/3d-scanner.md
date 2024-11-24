@@ -7,7 +7,7 @@ toc:
 description: An implementation of a line laser scanner
 img: assets/img/3d-scanner/setting.png
 importance: 1
-category: work
+category: Computer Vision
 related_publications: false
 ---
 

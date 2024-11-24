@@ -5,7 +5,7 @@ permalink: /projects/
 description: My current and past projects
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Computer Vision, Networking, Software Architectures]
 horizontal: false
 ---
 
