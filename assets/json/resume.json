@@ -19,6 +19,15 @@
   },
   "work": [
     {
+      "name": "DSI",
+      "position": "Computer Vision Engineer",
+      "url": "https://www.digitalstrategyinnovation.it/",
+      "startDate": "2024-12",
+      "endDate": "current",
+      "summary": "Working on 3D reconstruction pipelines for industrial application. Both with stereo vision algorithms and laser line scanners",
+      "highlights": ["Computer Vision", "3D Reconstruction", "Algorithms", "3D Geometry"]
+    },
+    {
       "name": "Secura Factors",
       "position": "Software Engineer",
       "url": "https://unive-ssv.github.io/secura.html",
