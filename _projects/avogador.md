@@ -102,4 +102,3 @@ Nowdays we have move on from this project, Alessio is doing a PhD in the same un
 [^3]: [MostSerene Software](https://mostserene.eu)
 [^4]: [Ca' Foscari University of Venice](https://www.unive.it/)
 [^5]: [JPlag Antiplagiarism](https://github.com/jplag/JPlag)
-
