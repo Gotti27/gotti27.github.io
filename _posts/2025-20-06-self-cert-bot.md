@@ -14,7 +14,11 @@ featured: true
 The _Let's Encrypt_ CertBot[^1] is surely an exceptionally useful tool, however it requires the host to be public reachable.
 This means that it's not useable when dealing with private networks.
 
-As introduced in my [previous post]({% link _posts/2024-11-14-network-arch.md %}) about my networking infrastructure, I'm running various servers and services in a closed network environment.
+<!--
+%As introduced in my [previous post]({% link _posts/2024-11-14-network-arch.md %}) about my networking infrastructure,
+-->
+
+As I'll describe in another post about my network infrastructure, I'm running various servers and services in a closed network environment.
 This realm came at the price of manually handling TLS certificates, without the advantages of using a certification bot and an ACME CA.
 
 So far I handled the certificate generation with a Python script, which is available in my homeLab scripts repository[^4].

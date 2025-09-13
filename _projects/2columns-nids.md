@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2columnS
-description: a network intrusion detection system
+description: an ML-based network intrusion detection system
 # img: assets/img/avogador-logo.png
 importance: 4
 category: Networking
