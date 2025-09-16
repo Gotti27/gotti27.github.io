@@ -86,7 +86,7 @@ Avogador has never experienced any critical failure, nor security breaches, achi
 # Join us
 
 We are thrilled that you've read this article to this point.
-If you wish to deploy Avogador in your department just [drop me an email](mailto:mario.gottardo@mostserene.eu), altough the code is not yet opensource, we have in our plans to make the repository public.
+If you wish to deploy Avogador in your department just [drop me an email](mailto:mario.gottardo@unive.it), altough the code is not yet opensource, we have in our plans to make the repository public.
 Despite that, we are open to arrange a deploy and to include new people in the project.
 In case you do not want to care about the deploy, we can also think about an on-premise deploy on our infrastructure.
 
