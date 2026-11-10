@@ -5,7 +5,7 @@ toc:
   # beginning: true
   sidebar: left
 # description: Solving face landmark estimation with DL
-img: https://wywu.github.io/projects/LAB/support/WFLW_annotation.png
+img: assets/img/face-landmark/face_landmarks.jpeg
 importance: 3
 category: Computer Vision
 related_publications: false
