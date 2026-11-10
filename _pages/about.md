@@ -4,12 +4,12 @@ title: about
 permalink: /
 toc:
 subtitle: >
-  <p>Computer Vision and Software Engineer | M.Sc. in Computer Science @ Ca' Foscari University of Venice | LinkedIn Avoider </p>
+  <p>Doctoral Researcher on 3D Computer Vision @ FBK | PhD student @ UniTrento | Computer Vision and Software Engineer | M.Sc. in Computer Science | LinkedIn Avoider </p>
   <p> <a href="/assets/certs/gottardo-pub.asc" > PGP Key </a> fingerprint: 71B9EC0B7E183D50B9985CA5DE55F626FCF4E95E</p>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_2.jpeg
   image_circular: False # crops the image to make it circular
   more_info: >
     <p>Veneto, Italy</p>
@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 ### TL;DR
 
-I'm a computer vision and software engineer at [DSI](https://www.digitalstrategyinnovation.it/), my work revolves around 3D reconstruction algorithms, in particular using stereo vision, feature matching and laser line scanners for industrial applications.
+I'm a doctoral researcher and PhD student at the [Bruno Kessler Foundation](https://dvl.fbk.eu/) - [University of Trento](https://www.unitn.it/en). My work focuses on 3D computer vision and 3D reconstruction with Gaussian Splatting.
 Other than that, I have focused on complex, containerized and scalable microservices architectures, and networking infrastructures.
 Self-hosting and GNU/Linux enthusiast.
 
@@ -35,12 +35,12 @@ Links:
 
 ### Full story
 
-I'm a computer vision and software engineer at [DSI](https://www.digitalstrategyinnovation.it/).
-As introduced in the previous section, my work revolves around 3D computer vision pipelines, using stereo vision and laser line scanners.
+I'm a Doctoral Researcher at the [Bruno Kessler Foundation (FBK)](https://dvl.fbk.eu/) and PhD student at the [University of Trento](https://www.unitn.it/en).
 
-I hold a Master's degree in Computer Science from Ca’ Foscari University of Venice, where I graduated with a final mark of 110/110 with honors.
+After my Master's Degree, I worked for a couple of years as a computer vision and software engineer at [DSI](https://www.digitalstrategyinnovation.it/), where I worked on 3D reconstruction algorithms, in particular using stereo vision, feature matching and laser line scanners for industrial applications.
+I hold a Master's degree in Computer Science from [Ca’ Foscari University of Venice](https://www.unive.it/), where I graduated with a final mark of 110/110 with honors.
 
-During the summer between my Bachelor's and Master's degrees, I worked as a Java Developer at Zucchetti Software Giuridico in Pordenone, Italy.
+Between my Bachelor's and Master's degrees, I worked as a Java Developer at Zucchetti Software Giuridico in Pordenone, Italy.
 Then, I collaborated with Ca' Foscari University of Venice on various cloud architectures, including a web platform for programming examinations, addressing the untrusted code execution issue ([Avogador]({% link _projects/avogador.md %})).
 Between the first and second years of my Master's program, I completed a summer internship at [Univrses](https://univrses.com/), a computer vision company in Stockholm as full stack developer.
 
